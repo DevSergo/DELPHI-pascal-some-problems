@@ -8,6 +8,7 @@ if (Edit1.text[1] in ['м', 'ж']) then ...  // это работало в Delph
 
 // Самому проблему решить не удалось, хотя много чего попробовал и прочитал.
 // В итоге помогли на StackOverflow. Вот страница вопроса https://stackoverflow.com/questions/72085371/
+// Подробнее по этой теме у Гансмокера - https://www.transl-gunsmoker.ru/2009/09/pchars.html
 
 
 //  Р Е Ш Е Н И Е
