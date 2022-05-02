@@ -32,7 +32,7 @@ end;
 //  И Л И   Т А К
 
 
-procedure TPerson.SetSex(Value: WideChar);
+procedure TPerson.SetSex(Value: WideChar);  // или -> Value: Char
 const
   MySet : array of char = ['м','ж'];
 begin
