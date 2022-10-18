@@ -6,8 +6,8 @@ if (Edit1.text[1] in ['м', 'ж']) then ...  // работала в Delphi-7
 
 // однако уже не работает в более свежих (юникодовых) версиях Delphi
 
-// Мой вопрос с решение https://stackoverflow.com/questions/72085371/
-// Более подробно у Гансмокера - https://www.transl-gunsmoker.ru/2009/09/pchars.html
+// Мой вопрос с решением  -  https://stackoverflow.com/questions/72085371/
+// Более подробно у Гансмокера  -  https://www.transl-gunsmoker.ru/2009/09/pchars.html
 
 
 //  Р Е Ш Е Н И Е
